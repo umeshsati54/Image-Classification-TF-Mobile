@@ -1,4 +1,6 @@
 # Overview
+![981a3f9e3c3943f0](https://user-images.githubusercontent.com/23072529/45474490-879c3800-b757-11e8-851c-11375ea7ed88.png)
+
 There are multiple versions of this codelab depending on which version 
 of the tensorflow libraries you plan on using:
 
